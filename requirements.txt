@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+matplotlib==3.8.0
+numpy==1.22.2
+pandas==1.5.3
+Pillow==12.1.1
+plotly==6.6.0
+scikit_learn==1.2.0
+torch==2.1.0+cu121
+torchvision==0.16.0+cu121
+openpyxl==3.1.2
