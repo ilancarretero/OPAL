@@ -1,7 +1,7 @@
 <h1 align="center">💎OPAL: Orthonormal Prototype and Parts Learning<br>for Interpretable Image Classification</h1>
 
-<p align="center"><b>Anonymous ECCV 2026 Submission</b></p>
-<p align="center">Paper ID <b>#14856</b></p>
+<p align="center">Ilán Carretero, Gustavo Jesús Angulo, Rocío del Amor, Valery Naranjo</b></p>
+<p align="center"><b>Accepted in ECCV'26</b></p>
 
 <br>
 
